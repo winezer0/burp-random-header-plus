@@ -2,12 +2,15 @@
 
 Realize the dynamic modification of the request header，用于实现请求头的动态修改burp插件 。
 
+=============================================
 介绍与使用方法：
 
 RandomHeadrPlus-实现请求头动态替换
+
 https://mp.weixin.qq.com/s/51MbozMPZAZTc2mrcRNjGA
 
-修改记录
+=============================================
+RandomHeadrPlus修改记录
 
 1、通过字符串替换实现动态变量,
 
