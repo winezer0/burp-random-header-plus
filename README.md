@@ -10,6 +10,7 @@ RandomHeadrPlus1.2 更新记录
     2、添加一些--开头的常用示例，--开头不会被启用
     3、添加%RealHost%变量,当端口为80或443时，RealHost==RHost,否则RealHost = RHOST+:+RPORT
     4、关闭默认开启的Apply to in-scope requests only
+    5、修改LOGO并取消点击LOGO图标跳转到网页
 
 =============================================
 
